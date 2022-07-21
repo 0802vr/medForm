@@ -1,0 +1,7 @@
+.photo-container__date {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 700px;
+   margin: 10px;
+}

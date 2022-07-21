@@ -1,0 +1,7 @@
+.photo-container__capel-table{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    justify-content: space-around;
+}

@@ -1,0 +1,56 @@
+@import url(../vendor/normalize.css);
+@import url(../font/font.css);
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/content/content.css);
+@import url(../blocks/content/content__title.css);
+@import url(../blocks/content/content__place.css);
+@import url(../blocks/content/content__subtitle.css);
+@import url(../blocks/content/content__add-button.css);
+@import url(../blocks/content/content__delete-button.css);
+@import url(../blocks/content/content__edit-button.css);
+
+
+@import url(../blocks/photo-grid/photo-grid.css);
+
+@import url(../blocks/photo-container/photo-container.css);
+@import url(../blocks/photo-container/photo-container__info.css);
+@import url(../blocks/photo-container/photo-container__date.css);
+@import url(../blocks/photo-container/photo-container__table.css);
+@import url(../blocks/photo-container/photo-container__clapan.css);
+@import url(../blocks/photo-container/photo-container__clapan-name.css);
+@import url(../blocks/photo-container/photo-container__capel.css);
+@import url(../blocks/photo-container/photo-container__capel-table.css);
+@import url(../blocks/photo-container/photo-container__norm.css);
+
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/__overlay/popup__overlay.css);
+@import url(../blocks/popup/__close-container/popup__close-container.css);
+@import url(../blocks/popup/__container/popup__container.css);
+@import url(../blocks/popup/__error/popup__error.css);
+@import url(../blocks/popup/__error/_active/popup__error_active.css);
+@import url(../blocks/popup/__form/popup__form.css);
+@import url(../blocks/popup/__fieldset/popup__fieldset.css);
+@import url(../blocks/popup/__input/popup__input.css);
+@import url(../blocks/popup/__input/popup__input-date.css);
+@import url(../blocks/popup/__input/_type_error/popup__input_type_error.css);
+@import url(../blocks/popup/__save/popup__save.css);
+@import url(../blocks/popup/__save/_disabled/popup__save_disabled.css);
+@import url(../blocks/popup/__title/popup__title.css);
+@import url(../blocks/popup/__title/_delete/popup__title_delete.css);
+@import url(../blocks/popup/_opened/popup_opened.css);
+
+
+@import url(../blocks/footer/footer.css);
+
+ 
+
+
+
+
+
+
+
+
+
+ 
